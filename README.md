@@ -12,12 +12,12 @@ A Terminal User Interface (TUI) application for currency conversion using real-t
 
 ### 1. Get an API Key
 
-1. Sign up for a free account at [OpenExchangeRates](https://openexchangerates.org/signup/free)
+* Sign up for a free account at [OpenExchangeRates](https://openexchangerates.org/signup/free)
 
 
 ### 2. Set Up Environment Variables
 
-Set the APP_ID environment variable in a `.env` file.
+* Set the APP_ID environment variable in a `.env` file.
 
 ### 3. Run the Application
 
